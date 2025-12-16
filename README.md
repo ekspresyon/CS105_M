@@ -4,7 +4,7 @@ This is an agregation of the coure notes from Network Communication & Security -
 
 _The notes can be viewed folowing these URLS_
 
-[Class notes]()\
+[Class notes](./in_class_notes.md)\
 [Cryptography and Public Key Infrastructure (PKI) Acronymes](./acronymes.md)\
 [Security+ Exam acronymes](./acronymes_list.md)\
 [Markdown Live Preview](https://markdownlivepreview.com/).\
