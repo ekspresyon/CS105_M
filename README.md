@@ -7,5 +7,4 @@ _The notes can be viewed folowing these URLS_
 [Class notes](./in_class_notes.md)\
 [Cryptography and Public Key Infrastructure (PKI) Acronymes](./acronymes.md)\
 [Security+ Exam acronymes](./acronymes_list.md)\
-[Markdown Live Preview](https://markdownlivepreview.com/).\
 _These notes are to grow in volume and diversity as I continue to study for my Security+ Certification Exam_
